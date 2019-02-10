@@ -12,3 +12,6 @@ the matplotlib.figure.Figure and at the bottom part, an other Frame to put all t
 
 The code to draw the image onto the Canvas is directly taken from this web page : https://stackoverflow.com/questions/52015845/how-to-add-matplotlib-line-chart-to-tkinter-gui
 Big thanks to Stanley.
+
+## Possible improvements
+The current program don't deal with 3d like matplotlib.pyplot : instead of the rotating effect, trying to move the graph only do translations on x and y axes.
